@@ -1,6 +1,12 @@
 ## Hi there 👋
  I’m Aritra Sarkar, a frontend developer from India. I’m a student who loves building clean and user-friendly websites. I enjoy using my skills to create smooth and visually appealing web pages.
 
+### Skills and Experience
+- 🌟ReactJS
+- 💻HTML, CSS, JavaScript
+- 🕸️Bootstrap, Tailwind CSS
+- 🎨Figma
+- 🐘Php, MySQL
 
 
 - 🔭 I’m currently working on Front-end development
